@@ -1,6 +1,6 @@
 {
   "name": "submission-back-end-pemula",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
     "lint": "eslint ./src"
   },
   "keywords": [],
-  "author": "",
+  "author": "isallkun",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.49.0",
@@ -20,5 +20,13 @@
   "dependencies": {
     "@hapi/hapi": "^20.2.2",
     "nanoid": "^3.3.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Isallkun/Bookshelf-API"
+  },
+  "bugs": {
+    "url": "https://github.com/Isallkun/Bookshelf-API/issues"
+  },
+  "homepage": "https://github.com/Isallkun/Bookshelf-API#readme"
 }
